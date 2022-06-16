@@ -1,2 +1,2 @@
 # Anime_Recommender
-As the name says
+<p>This is just an normal recommender system I made using python.</p>
