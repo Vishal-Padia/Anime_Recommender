@@ -24,4 +24,4 @@
 <img src='https://miro.medium.com/max/1508/1*CgqwP7MeL8KxfRmjIEqHSA.png'>
 <img src='https://miro.medium.com/max/1512/1*7wVAmNR4NdksRA3tyq-olw.png'>
 <img src='https://miro.medium.com/max/1508/1*PCnEH4_ndWmsd3cFPz5wlA.png'>
-<p>THIS IS NOT ENTIRELY MADE BY ME. <a href='https://medium.com/analytics-vidhya/anime-recommendation-engine-content-collaborative-filtering-c6e69be29d29'>CREDITS TO THE CREATOR</a>THANKS TO THE CREATOR FOR THIS PROJECT AS IT HELPED ME ADDING THIS TO MY PORTFOLIO.</p>
+<p>THIS IS NOT ENTIRELY MADE BY ME. <a href='https://medium.com/analytics-vidhya/anime-recommendation-engine-content-collaborative-filtering-c6e69be29d29'> CREDITS TO THE CREATOR </a>THANKS TO THE CREATOR FOR THIS PROJECT AS IT HELPED ME ADDING THIS TO MY PORTFOLIO.</p>
