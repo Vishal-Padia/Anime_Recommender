@@ -26,4 +26,5 @@
 <img src='https://miro.medium.com/max/1508/1*PCnEH4_ndWmsd3cFPz5wlA.png'>
 <p>THIS IS NOT ENTIRELY MADE BY ME. <a href='https://medium.com/analytics-vidhya/anime-recommendation-engine-content-collaborative-filtering-c6e69be29d29'> CREDITS TO THE CREATOR </a>THANKS TO THE CREATOR FOR THIS PROJECT AS IT HELPED ME ADDING THIS TO MY PORTFOLIO.</p>
 
-<p>This is project is a KAKASHI PROJECT(i.e ninja see ninja do)<img src='https://media3.giphy.com/media/rrTXn4zEMp008/200.webp?cid=ecf05e47ulwyugpzzhfb65qdfrqhc3z8ohtx3ukp0cdke1k4&rid=200.webp&ct=g'></p>
+<p>This is project is a KAKASHI PROJECT(i.e ninja see ninja do)</p>
+<img src='https://media3.giphy.com/media/rrTXn4zEMp008/200.webp?cid=ecf05e47ulwyugpzzhfb65qdfrqhc3z8ohtx3ukp0cdke1k4&rid=200.webp&ct=g'>
