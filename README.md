@@ -8,7 +8,7 @@
 <h1>What is a recommendation engine ?</h1>
 <img src='https://miro.medium.com/max/1400/1*dCEBhlDpuHkwEErkprmG_g.jpeg'> 
 <p> It is an unsupervised learning algorithm (one that does not have a target variable to measure accuracy against) mostly used to aid in consumer decision making. I’m sure you have seen them while online shopping. They also appear in places like streaming apps (aka Netflix and Hulu) to help you select a TV show or movie to watch next and on journalism/media websites like Medium to suggest other articles you may like to read, among many other uses. Obviously many e-retailers like Amazon have already been using recommender algorithms for quite some time, but many smaller or newer sites are still in need. There are different varieties of recommenders that base their predictions on different features.</p>
-
+<img src='https://media3.giphy.com/media/6U47YlEnJQNeb05Csh/200w.webp?cid=ecf05e47qyrbi9tftqpdtv6vdok11n3n2fs8w9bxib6qfl59&rid=200w.webp&ct=g'>
 <h1>About the Dataset</h1>
 <p>This data set contains information on user preference data from 73,516 users on 12,294 anime. Each user is able to add anime to their completed list and give it a rating and this data set is a compilation of those ratings</p>
 <p>Credits: <a href='https://www.kaggle.com/CooperUnion/anime-recommendations-database'>Anime Recommendation Database</a></p>
@@ -25,3 +25,5 @@
 <img src='https://miro.medium.com/max/1512/1*7wVAmNR4NdksRA3tyq-olw.png'>
 <img src='https://miro.medium.com/max/1508/1*PCnEH4_ndWmsd3cFPz5wlA.png'>
 <p>THIS IS NOT ENTIRELY MADE BY ME. <a href='https://medium.com/analytics-vidhya/anime-recommendation-engine-content-collaborative-filtering-c6e69be29d29'> CREDITS TO THE CREATOR </a>THANKS TO THE CREATOR FOR THIS PROJECT AS IT HELPED ME ADDING THIS TO MY PORTFOLIO.</p>
+
+<p>This is project is a KAKASHI PROJECT(i.e ninja see ninja do)<img src='https://media3.giphy.com/media/rrTXn4zEMp008/200.webp?cid=ecf05e47ulwyugpzzhfb65qdfrqhc3z8ohtx3ukp0cdke1k4&rid=200.webp&ct=g'></p>
